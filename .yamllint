@@ -1,7 +1,7 @@
 ---
 
 yaml-files:
-  - "themes/template.yaml"
+  - "themes/nord.yaml"
 
 rules:
   braces:
@@ -57,7 +57,7 @@ rules:
   key-duplicates:
     level: error
   key-ordering:
-    level: error
+    level: warning
   line-length:
     level: warning
     max: 120
