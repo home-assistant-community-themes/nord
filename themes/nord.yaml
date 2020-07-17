@@ -6,7 +6,7 @@ nord:
   # Color Setup
   nord0: "#2E3440" # Nord0 - Polar Night
   nord1: "#3b4252" # Nord1 - Brighter Polar Night
-  nord2: "#454c5e" # Nord2 - Even Brighter Polar Night
+  nord2: "#434c5e" # Nord2 - Even Brighter Polar Night
   nord3: "#4c566a" # Nord3 - Brightest Polar Night
   nord4: "#d8dee9" # Nord4 - Snow Storm
   nord5: "#e5e9f0" # Nord5 - Snow Storm Origin
