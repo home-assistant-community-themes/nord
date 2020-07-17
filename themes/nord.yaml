@@ -4,22 +4,22 @@
 #
 nord:
   # Color Setup
-  nord0: "#2E3440" # Nord0 - Polar Night
-  nord1: "#3b4252" # Nord1 - Brighter Polar Night
-  nord2: "#434c5e" # Nord2 - Even Brighter Polar Night
-  nord3: "#4c566a" # Nord3 - Brightest Polar Night
-  nord4: "#d8dee9" # Nord4 - Snow Storm
-  nord5: "#e5e9f0" # Nord5 - Snow Storm Origin
-  nord6: "#eceff4" # Nord6 - Brightest Snow Storm
-  nord7: "#8fbcbb" # Nord7 - calm blue
-  nord8: "#88c0d0" # Nord8 - bright blue
+  nord0: "#2E3440"  # Nord0 - Polar Night
+  nord1: "#3b4252"  # Nord1 - Brighter Polar Night
+  nord2: "#434c5e"  # Nord2 - Even Brighter Polar Night
+  nord3: "#4c566a"  # Nord3 - Brightest Polar Night
+  nord4: "#d8dee9"  # Nord4 - Snow Storm
+  nord5: "#e5e9f0"  # Nord5 - Snow Storm Origin
+  nord6: "#eceff4"  # Nord6 - Brightest Snow Storm
+  nord7: "#8fbcbb"  # Nord7 - calm blue
+  nord8: "#88c0d0"  # Nord8 - bright blue
   nord9: "#81a1c1"  # Nord9  - muted blue (default)
-  nord10: "#5e81ac" # Nord10 - blue
-  nord11: "#bf616a" # Nord11 - red
-  nord12: "#d08770" # Nord12 - orange
-  nord13: "#ebcb8b" # Nord13 - yellow
-  nord14: "#a3be8c" # Nord14 - green
-  nord15: "#b48ead" # Nord15 - purple
+  nord10: "#5e81ac"  # Nord10 - blue
+  nord11: "#bf616a"  # Nord11 - red
+  nord12: "#d08770"  # Nord12 - orange
+  nord13: "#ebcb8b"  # Nord13 - yellow
+  nord14: "#a3be8c"  # Nord14 - green
+  nord15: "#b48ead"  # Nord15 - purple
 
   primary-color: "var(--nord9)"
   light-primary-color: "var(--nord0)"
