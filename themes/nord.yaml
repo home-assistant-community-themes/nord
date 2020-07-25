@@ -38,8 +38,7 @@ nord:
   ha-card-border-radius: "0px"
   primary-font-family: "Roboto Condensed, Roboto, system-ui"
 
-  # Paper
-  paper-card-background-color: "var(--nord3)"
+  card-background-color: "var(--nord3)"
   paper-card-header-color: "var(--nord9)"
   paper-listbox-background-color: "var(--nord1)"
   paper-listbox-color: "var(--nord9)"
